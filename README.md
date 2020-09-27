@@ -1,1 +1,4 @@
 # Product02
+lua热更新的lua脚本在scripts文件夹内，状态机用脚本实现，脚本在SciptsforFSM文件夹内，两个场景都在Scenes文件夹呢
+第一个场景用lua脚本填充了Start()函数，使其能通过Button给text组件+1
+第二个场景实现了WASD和左键攻击的基础状态更改
